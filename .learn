@@ -4,7 +4,7 @@ using_times = "Wingardium Leviosa"
   puts using_times
 end
 
-using_times
+
 
 #tags:
  # - readme
