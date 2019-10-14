@@ -1,10 +1,5 @@
-def using_times
-7.time do
-  p "Wingardium Leviosa"
-  end
-end
 
-using_times
+puts "Wingardium Leviosa"
 
 #tags:
  # - readme
