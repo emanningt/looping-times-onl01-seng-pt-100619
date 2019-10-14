@@ -4,10 +4,10 @@ end
 
 
 
-tags:
-  - readme
-  - looping
-  - times
-languages:
-  - ruby
-resources: 0
+#tags:
+ # - readme
+  #- looping
+ # - times
+#languages:
+#  - ruby
+#resources: 0
